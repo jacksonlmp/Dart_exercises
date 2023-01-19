@@ -16,7 +16,7 @@ main () {
     'Maria duda': 2.0,
   };
 
-  for (var nome in notass.values) {
-    print(notass);
+  for (var notar in notass.values) {
+    print(notar);
   }
 }
